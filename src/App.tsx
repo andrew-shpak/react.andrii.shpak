@@ -11,7 +11,7 @@ const PasteUploadDropZone = withPasteUpload(UploadDropZone);
 
 function App() {
   return (
-    <div>Hello world</div>
+    <div>Hello world- learn react</div>
   );
 }
 
