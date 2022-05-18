@@ -7,5 +7,5 @@
 - Ddrag and drop, copy/paste  - @rpldy/uploady
 - react-table - використати для CRUD (редагування, стоврення, видалення, перегляду) даних відповідно до індивідуальної доменної області
 - github actions build
-- Використати Vercel для відображення сайту
+- Docker image + github container registry
 - 
